@@ -22,6 +22,10 @@
     </properties>
     <repositories>
         <repository>
+            <id>elMakers</id>
+            <url>http://maven.elmakers.com/repository/</url>
+        </repository>
+        <repository>
             <id>battleplugins-repo</id>
             <url>https://repo.battleplugins.org/artifactory/libs-release</url>
         </repository>
